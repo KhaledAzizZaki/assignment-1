@@ -345,3 +345,21 @@ nav button {
   border-radius: 0 8px 8px 0;
   padding: 17px 34px;
 }
+.footer {
+  background-color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
+/* .footer-h {
+  width: 1280px;
+  height: 100px;
+} */
+.footer h4 {
+  font-size: 32px;
+  font-weight: bold;
+  color: rgba(14, 14, 14, 1);
+  padding: 50px 0 32px;
+  border-bottom: 1px solid rgba(14, 14, 14, 0.1);
+}
+.footer img {
+  padding: 32px 12px 50px 12px;
+}
