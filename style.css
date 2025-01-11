@@ -72,6 +72,10 @@ nav button {
   padding: 17px 34px;
   border-radius: 8px;
 }
+.btn-hover:hover {
+  background-color: rgba(196, 37, 36, 1);
+  cursor: pointer;
+}
 .hero img {
   width: 474px;
   height: 400px;
@@ -99,6 +103,9 @@ nav button {
   display: flex;
   margin-top: 32px;
   justify-content: space-between;
+}
+.card-hover:hover {
+  background-color: rgba(243, 2, 0, 0.3);
 }
 
 /* card share style  */
